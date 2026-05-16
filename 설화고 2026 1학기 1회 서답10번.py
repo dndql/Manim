@@ -211,4 +211,5 @@ class vnfdl(Scene):
             # k.animate.set_value(4.29), # k값도 함께 변경한다면
             run_time=2
         )
+        
 
