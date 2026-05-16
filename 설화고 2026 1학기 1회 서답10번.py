@@ -1,19 +1,9 @@
 from manim import *
-from scipy.optimize import fsolve
 from scipy.optimize import brentq
 
 config.pixel_height = 1920
 config.pixel_width = 1080
 config.frame_rate = 60
-
-
-# ax1 = Axes(
-#             x_range=[-2, 3], 
-#             y_range=[-1, 20, 2], 
-#             x_length=10,
-#             y_length=8,
-#             axis_config={"include_tip": True} # 화살표 표시
-#         ).add_coordinates()
 
 
 class vnfdl(Scene):
