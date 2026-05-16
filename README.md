@@ -1,5 +1,5 @@
 # Manim
-저는 VSCode에서 실행했구요 Manim이랑 Latex 설치하세요.<br>
+저는 VSCode에서 실행했구요 Manim, Latex, 부크크명조 설치하세요.<br>
 Manim Sideview 익스텐션 어느순간부터 작동 안하는데 왜그런지 모르겠음
 
 https://github.com/3b1b/manim <br>
